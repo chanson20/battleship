@@ -76,7 +76,7 @@ else:
 	print "Game Over"
 	print "The enemy has sunk you"
 	batlib.printstats()
-	if batlib.again == True:
+	if batlib.again() == True:
 		start()
 	else:
 		print 'rage quit omg'
