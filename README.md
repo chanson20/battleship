@@ -3,7 +3,7 @@ Python Battle Ship
 # Made By
 Cooper Hanson
 # Start
-Run batl.py <br />you can change it to battleship.py if you want to
+Run main.py
 # Rules
 You get 5 turns to hit someone elses ship and sink it <br />
 pretty simple <br />
